@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Timur\\Desktop\\Monopoly_Test\\Monopoly_Test_Sol\\Monopoly_Test_Sol.csproj",
+      "projectUniqueName": "C:\\Users\\Timur\\Desktop\\Monopoly_Test_C\\Monopoly_Test_Sol\\Monopoly_Test_Sol.csproj",
       "projectName": "Monopoly_Test_Sol",
-      "projectPath": "C:\\Users\\Timur\\Desktop\\Monopoly_Test\\Monopoly_Test_Sol\\Monopoly_Test_Sol.csproj",
+      "projectPath": "C:\\Users\\Timur\\Desktop\\Monopoly_Test_C\\Monopoly_Test_Sol\\Monopoly_Test_Sol.csproj",
       "packagesPath": "C:\\Users\\Timur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Timur\\Desktop\\Monopoly_Test\\Monopoly_Test_Sol\\obj\\",
+      "outputPath": "C:\\Users\\Timur\\Desktop\\Monopoly_Test_C\\Monopoly_Test_Sol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\Timur\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

@@ -48,6 +48,7 @@
         catch (ArgumentException e)
         {
             Console.WriteLine(e.Message); 
+            Console.WriteLine("Объект создан не будет");
             valid = false;
         }
 
