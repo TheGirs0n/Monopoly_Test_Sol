@@ -1,0 +1,14 @@
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\bin\Debug\net8.0\Monopoly_Test_Sol.exe
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\bin\Debug\net8.0\Monopoly_Test_Sol.deps.json
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\bin\Debug\net8.0\Monopoly_Test_Sol.runtimeconfig.json
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\bin\Debug\net8.0\Monopoly_Test_Sol.dll
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\bin\Debug\net8.0\Monopoly_Test_Sol.pdb
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\Monopoly_Test_Sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\Monopoly_Test_Sol.AssemblyInfoInputs.cache
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\Monopoly_Test_Sol.AssemblyInfo.cs
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\Monopoly_Test_Sol.csproj.CoreCompileInputs.cache
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\Monopoly_Test_Sol.dll
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\refint\Monopoly_Test_Sol.dll
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\Monopoly_Test_Sol.pdb
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\Monopoly_Test_Sol.genruntimeconfig.cache
+C:\Users\Timur\Desktop\Monopoly_Test\Monopoly_Test_Sol\obj\Debug\net8.0\ref\Monopoly_Test_Sol.dll
